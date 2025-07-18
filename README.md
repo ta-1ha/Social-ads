@@ -1,6 +1,6 @@
 # Social-ads
 
- i am using the three different algos for model training mainly the Support Vector Machine (SVM) for a classification. It includes:
+ i am using the four different algos for model training mainly the Support Vector Machine (SVM) for a classification. It includes:
 
 Data loading with pandas
 
